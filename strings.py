@@ -43,5 +43,5 @@ print(text1[60:])
 
 print(text1[0:12])
 
-#len() used to counts the number of all characters in a string  
+#len() used to counts the number of all characters in a string variable 
 print(len(text1))
