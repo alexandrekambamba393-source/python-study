@@ -2,7 +2,7 @@ my_name="Alexandre Kambamba"
 #Capitalize -> make the first character have upper case and the rest lower case
 print(my_name.capitalize())
 
-#. lower 
+#. lower and upper -> make all characters lower case or upper case
 
 text1="MY name IS KeVIn"
 print(text1)
