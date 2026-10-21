@@ -1,4 +1,4 @@
-irst_name="Ropy"
+first_name="Ropy"
 last_name="Kevin"
 
 full_name=first_name+" "+last_name

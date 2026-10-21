@@ -33,7 +33,18 @@ print(my_ds)
 # You can research or discuss to find the solutions above.
 #         https://realpython.com/quizzes/pybasics-tuples-lists-dicts/ 
 
+# student1 = {
+#     'name': "alex",
+#     'age': 20,
+#     'adm': "tech2015",
+#     'city': 'Nairobi',
+# }
 
+# print(student1["age"])
+
+
+# x = ["Lesson", "Maths", {"currency": "KES"}]
+# x[0]
 
 
 # my_name="Ropy"

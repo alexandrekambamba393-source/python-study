@@ -86,7 +86,8 @@ else :
       print('fail')
 
       #task 
-      #slide 59 
-      #slide 58
-      #slide 59
+      #slide 56 1 to 4 
+      #slide 58 
+      #slide 59 3 and 4
       
+         # nested if

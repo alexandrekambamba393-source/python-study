@@ -1,13 +1,17 @@
-# calculate the area of a square 
+# calculate the area of a square
 
 side=10
 area=side*side
 print(area)
 
-# calculate the area of a rectangle 
+# calculate the area of rectangle
 
-length=3
-width=2
-area=length*width
-
+lenght="50"
+width="10"
+area=lenght*width
 print(area)
+
+
+num="100"
+num1=99.45
+my_name="Alexandre Kambamba"
